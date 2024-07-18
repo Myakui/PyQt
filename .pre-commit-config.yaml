@@ -3,7 +3,7 @@
 # https://python-poetry.org/docs/pre-commit-hooks/
 
 default_language_version:
-  python: python3.12
+  python: python3.12.2
 repos:
   - repo: local
     hooks:
